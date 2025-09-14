@@ -7,8 +7,8 @@
     "@types/bun": "latest",
     "@types/node": "^24.3.3",
     "prisma": "^6.16.1",
-    "tsx": "^4.20.5",
-    "ts-node": "^10.9.2"
+    "ts-node": "^10.9.2",
+    "tsx": "^4.20.5"
   },
   "peerDependencies": {
     "typescript": "^5.9.2"
